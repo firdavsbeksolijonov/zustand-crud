@@ -1,0 +1,10 @@
+.App {
+    padding: 20px;
+    text-align: center;
+}
+
+
+.add-btn {
+    position: relative;
+    left: -42%;
+}

@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "name": "Learn React",
+      "address": "Mahalla",
+      "phone": 2083
+    },
+    {
+      "id": "3d1b",
+      "name": "ismoil",
+      "address": "afffffffdd",
+      "phone": "3241234"
+    },
+    {
+      "id": "7938",
+      "name": "firdavs",
+      "address": "soljonov",
+      "phone": "3231123"
+    },
+    {
+      "id": "91d0",
+      "name": "abdullo",
+      "address": "jora",
+      "phone": "123456"
+    },
+    {
+      "id": "ca76",
+      "name": "odkjfp",
+      "address": "d;slf;dlmf;s",
+      "phone": "12312"
+    },
+    {
+      "name": "jorabek",
+      "address": "olimbek",
+      "phone": "23123",
+      "id": "c448"
+    }
+  ]
+}
